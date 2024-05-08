@@ -1,0 +1,2 @@
+class GarageError(Exception):
+    pass
