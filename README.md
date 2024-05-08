@@ -30,7 +30,7 @@ Users can exit the application with a simple confirmation prompt, providing a se
 ## Usage
 1. Clone or download the application from the repository.
 2. Ensure the CarRegistry.dat file is available in the specified location.
-3. Open the application in a console window.
+3. Open Main.py in the IDE of choice and run. Ensure all files are in the same location.
 4. Follow the on-screen instructions to navigate through various functionalities, such as adding, removing, or updating cars in the registry.
 
 ## Classes
